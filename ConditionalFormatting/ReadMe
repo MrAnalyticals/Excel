@@ -1,0 +1,4 @@
+The attached "Conditional Formatting Task Recurrance.xlsx" provides an example of tracking recurring 
+tasks using Conditional Formatting to highlight those tasks recurring today. 
+The formula in the Formatting is simple but the formula in the sheet itself , to build the 
+True / False value (for formatting testing) is more complex.
